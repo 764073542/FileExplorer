@@ -1,0 +1,8 @@
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\obj\x86\Debug\FileExplorer.Form1.resources
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\obj\x86\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\obj\x86\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\obj\x86\Debug\FileExplorer.exe
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\obj\x86\Debug\FileExplorer.pdb
+C:\Users\傲娇小笼包\Desktop\Explorer\FileExplorer\FileExplorer\obj\x86\Debug\FileExplorer.csprojResolveAssemblyReference.cache
